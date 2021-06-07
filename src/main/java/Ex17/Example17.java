@@ -6,7 +6,7 @@ import java.util.Scanner;
  *  Copyright 2021 Richard Pekarski
  */
 
-// Note: Needs constraint for numeric integers
+// Note: Doesn't Scanner already constrict the data type? It already gives an error/no progress
 
 public class Example17 {
     public static void main(String[] args)
